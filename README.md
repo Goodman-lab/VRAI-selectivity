@@ -14,8 +14,8 @@ VRAI-selectivity Manual
 3) Example Usage
 
 VRAI-multi Manual
-1) Preparing for the calculation 
-2) Documentations
+1) Requirements and Setup
+2) Programme Documentations
 3) Examples
 
 ===============================================================
@@ -157,14 +157,14 @@ VRAI-multi.py is an extension to the VRAI-selectivity.py script (version > v7). 
 ===============================================================
 
 CONTENTS
-1) Preparing for the calculation 
-2) Documentations
+1) Requirements and Setup 
+2) Programme Documentations
 3) Examples
 
 ===============================================================
 
 
-## 1. Preparing for the calculation 
+## 1. Requirements and Setup
 
 ### Inputs 
 The input to VRAI-multi is the path to the folder that contains the required files for the VRAI selectivity analyses. For the script to correctly identify and process the files, the following file naming formats must be adopted: 
@@ -226,7 +226,7 @@ The python script requires the Gaussian output files to be in .mol file format.
 It is possible to convert the frequency output files to .mol file using Gaussview via File -> Convert Files.
 
 
-## 2. Documentations 
+## 2. Programme Documentations
 
 
 ### class VRAI_multi
