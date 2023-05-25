@@ -11,26 +11,33 @@ The input to VRAI-multi is the path to the folder that contains the required fil
 
 -	Geometry of the first TS in mol file must have a ‘TS1.mol’ suffix. 
 -	Gaussian16 frequency calculation output file for the first TS must adopt the same filename as the corresponding mol file but with a ‘.out’ suffix.
-* Example: ol17ryu_e_int2_SSR_11_TS1.mol and ol17ryu_e_int2_SSR_11_TS1.out
-
+```
+#Example: 
+ol17ryu_e_int2_SSR_11_TS1.mol and ol17ryu_e_int2_SSR_11_TS1.out
+```
 -	Geometry of the intermediate in .mol file must have a ‘int.mol’ suffix. 
 -	Gaussian16 frequency calculation output file for the intermediate must adopt the same filename as the corresponding mol file but with a ‘.out’ suffix. 
-* Example: ol17ryu_e_int2_SSR_6_int.mol and ol17ryu_e_int2_SSR_6_int.out
-
+```
+#Example: 
+ol17ryu_e_int2_SSR_6_int.mol and ol17ryu_e_int2_SSR_6_int.out
+```
 -	Gaussian16 frequency calculation output files for the second TS must have a ‘TS2.out’ suffix. (optional)
 -	Geometry of the product in .mol file must adopt the same filename as the corresponding TS2 with an additional ‘prod.mol’ as the suffix.
-
-* Example: there are three different possible products via pathways that share a common intermediate 
+```
+#Example: there are three different possible products via pathways that share a common intermediate 
 ol17ryu_e_int2_SSR_C_1_TS2_prod.mol
 ol17ryu_e_int2_SSR_C_1_TS2.out
 ol17ryu_e_int2_SSR_H_2_TS2_prod.mol
 ol17ryu_e_int2_SSR_H_2_TS2.out
 ol17ryu_e_int2_SSR_O_1_TS2_prod.mol
 ol17ryu_e_int2_SSR_O_1_TS2.out
+```
 
 - Single point energy calculation files must adopt the same filename as the corresponding TS1, int and TS2 structures but with a '_spe.out’ suffix. (optional)
-* Example: ol17ryu_e_int2_SSR_O_1_TS2_spe.out for ol17ryu_e_int2_SSR_O_1_TS2.out
-
+```
+#Example: 
+ol17ryu_e_int2_SSR_O_1_TS2_spe.out for ol17ryu_e_int2_SSR_O_1_TS2.out
+```
 The designated folder must contain a minimum of one set of TS1 files, one set of INT files and two product mol files. It is acceptable to include additional sets of product or TS1 files, but the number of intermediate files in the folder should not exceed one set (ie a .mol and .out file).
 
 ### Environment
