@@ -1,6 +1,10 @@
 
 # VRAI-selectivity REAMME.md
-### This document contains the manual for VRAI-selectivity.py and VRAI-multi.py (extension to the VRAI-selectivity.py script (version > v7))
+
+This document contains the manual for VRAI-selectivity.py and VRAI-multi.py (extension to the VRAI-selectivity.py script (version > v7))
+Please cite: 
+1. S. Lee and J. M. Goodman,VRAI-selectivity: calculation of selectivity beyond transition state theory, Org. Biomol. Chem., 2021, 19, 3940–3947. (https://doi.org/10.1039/D1OB00234A)
+2. C. C. Lam and J. M. Goodman, Reaction dynamics as the missing puzzle piece: the selectivity in oxazaborolidinium ion-catalysed reactions, in preparation for submission 
 
 
 # VRAI-selectivity Manual: 
