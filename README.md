@@ -64,7 +64,7 @@ It is possible to convert the frequency output files to .mol file using Gaussvie
 
 ### class VRAI_multi
 
-### __init__(self, file_info) 
+### VRAI_multi.__init__(self, file_info) 
 
 
 file_info: string; the path to the folder that contains all the input files or the path to the csv that contains the name of the input files 
