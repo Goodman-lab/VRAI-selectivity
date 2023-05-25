@@ -14,9 +14,9 @@ VRAI-selectivity Manual
 3) Example Usage
 
 VRAI-multi Manual
-A) Preparing for the calculation 
-B) Documentations
-C) Examples
+1) Preparing for the calculation 
+2) Documentations
+3) Examples
 
 ===============================================================
 
@@ -157,14 +157,14 @@ VRAI-multi.py is an extension to the VRAI-selectivity.py script (version > v7). 
 ===============================================================
 
 CONTENTS
-A) Preparing for the calculation 
-B) Documentations
-C) Examples
+1) Preparing for the calculation 
+2) Documentations
+3) Examples
 
 ===============================================================
 
 
-## A. Preparing for the calculation 
+## 1. Preparing for the calculation 
 
 ### Inputs 
 The input to VRAI-multi is the path to the folder that contains the required files for the VRAI selectivity analyses. For the script to correctly identify and process the files, the following file naming formats must be adopted: 
@@ -226,7 +226,7 @@ The python script requires the Gaussian output files to be in .mol file format.
 It is possible to convert the frequency output files to .mol file using Gaussview via File -> Convert Files.
 
 
-## B. Documentations 
+## 2. Documentations 
 
 
 ### class VRAI_multi
@@ -266,7 +266,7 @@ raw_result_df: pd.dataframe; raw results from VRAI-selectivity.py
 processed_result_df: pd.dataframe; The output of the pipeline is a data frame that contains the product percentages, which are calculated by using different products as the reference in the calculation. It is crucial to verify the consistency of the product percentages obtained from different sets of results to accept them as reliable outcomes.
 
 
-## C. Examples
+## 3. Examples
 
 ```python
 # import the script
