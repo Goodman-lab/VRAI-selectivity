@@ -3,6 +3,25 @@
 
 This document contains the manual for VRAI-selectivity.py and VRAI-multi.py (extension to the VRAI-selectivity.py script (version > v7))
 
+
+===============================================================
+
+CONTENTS
+
+VRAI-selectivity Manual
+1) Requirements and Setup
+2) Usage
+3) Example Usage
+
+VRAI-multi Manual
+A) Preparing for the calculation 
+B) Documentations
+C) Examples
+
+===============================================================
+
+
+
 # VRAI-selectivity Manual: 
 ===============================================================
 
@@ -133,6 +152,16 @@ The algorithm should also create a log file called 'VRAI-selectivity_testTS1freq
 # VRAI-multi Manual:
 
 VRAI-multi.py is an extension to the VRAI-selectivity.py script (version > v7). VRAI-multi automate the process of VRAI-selectivity analyses for treating systems with complex PES.
+
+
+===============================================================
+
+CONTENTS
+A) Preparing for the calculation 
+B) Documentations
+C) Examples
+
+===============================================================
 
 
 ## A. Preparing for the calculation 
