@@ -20,6 +20,10 @@ VRAI-multi Manual
 
 ===============================================================
 
+# References for the underlying theory
+
+1. S. Lee and J. M. Goodman,VRAI-selectivity: calculation of selectivity beyond transition state theory, Org. Biomol. Chem., 2021, 19, 3940–3947. (https://doi.org/10.1039/D1OB00234A)
+2. 	C. C. Lam, J. M. Goodman, Reaction dynamics as the missing puzzle: the origin of selectivity in oxazaborolidinium ion-catalysed reactions; under reviews with Chemical Science: 10.26434/chemrxiv-2023-74p0j
 
 
 # VRAI-selectivity Manual: 
@@ -302,7 +306,3 @@ test2.autopipe(path='./test_file2/',with_spe=True)
 
 ```
 
-# References for the underlying theory
-
-1. S. Lee and J. M. Goodman,VRAI-selectivity: calculation of selectivity beyond transition state theory, Org. Biomol. Chem., 2021, 19, 3940–3947. (https://doi.org/10.1039/D1OB00234A)
-2. C. C. Lam and J. M. Goodman, Reaction dynamics as the missing puzzle piece: the selectivity in oxazaborolidinium ion-catalysed reactions, in preparation for submission 
