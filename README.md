@@ -24,7 +24,8 @@ VRAI-multi Manual
 
 1. S. Lee and J. M. Goodman,VRAI-selectivity: calculation of selectivity beyond transition state theory, Org. Biomol. Chem., 2021, 19, 3940–3947. (https://doi.org/10.1039/D1OB00234A)
 2. 	C. C. Lam, J. M. Goodman, Reaction dynamics as the missing puzzle: the origin of selectivity in oxazaborolidinium ion-catalysed reactions, 	Chem. Sci., 2023,14, 12355-12365 (https://doi.org/10.1039/D3SC03009A)
-   (Feel Free to drop Ching Ching an email if there is any question on the work from this paper: ccl59@cam.ac.uk)
+   
+      (Feel Free to drop Ching Ching an email if there is any question on the work from this paper: ccl59@cam.ac.uk)
 
 # VRAI-selectivity Manual: 
 ===============================================================
