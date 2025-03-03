@@ -180,7 +180,7 @@ The input to VRAI-multi is the path to the folder that contains the required fil
 #Example: 
 ol17ryu_e_int2_SSR_11_TS1.mol and ol17ryu_e_int2_SSR_11_TS1.out
 ```
--	Geometry of the intermediate in .mol file must have a ‘int.mol’ suffix. 
+-	Geometry of the intermediate (for cases with shallow intermediate) or TSII (for cases with ambimodal TS) in .mol file must have a ‘int.mol’ suffix. 
 -	Gaussian16 frequency calculation output file for the intermediate must adopt the same filename as the corresponding mol file but with a ‘.out’ suffix. 
 ```
 #Example: 
